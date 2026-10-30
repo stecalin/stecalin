@@ -4,15 +4,15 @@
 
 # Hi ♡ I'm Stephania Calin
 
-**Computer Science @ Binghamton University '28 • Mobile & Full-Stack Developer • Game Dev**
+**Computer Science @ Binghamton University '28 • Software Engineer • Game Dev**
 
-<img src="https://readme-typing-svg.demolab.com?font=Fredoka&weight=500&size=24&duration=3000&pause=900&color=F48FB1&center=true&vCenter=true&width=520&lines=React+Native+%2B+Firebase+apps+%F0%9F%93%B1;Roblox+games+in+Lua+%F0%9F%91%BB;teaching+girls+to+code+%F0%9F%92%97" alt="Typing intro" />
+<img src="https://readme-typing-svg.demolab.com?font=Fredoka&weight=500&size=24&duration=3000&pause=900&color=F48FB1&center=true&vCenter=true&width=520&lines=React+Native+%2B+Firebase+apps+%E2%9C%A7;Roblox+games+in+Lua+%E2%9C%BF;teaching+girls+to+code+%E2%99%A1" alt="Typing intro" />
 
 </div>
 
 ---
 
-## 🌸 Connect with Me
+## ✿ Connect with Me
 
 <div align="center">
 
@@ -25,18 +25,18 @@
 
 ---
 
-## 🎀 About Me
+## ♡ About Me
 
-- 🗣️ Building the website for **Stutter Forward**, an evidence-based online community for people who stutter (Firebase + Cloudflare)
-- 🛍️ Co-founder & front-end dev at **Coveted**, a React Native marketplace with Stripe payments
-- 👻 Designing **Cryptid Hunt**, an asymmetric social-deduction game in Roblox Studio
-- 🧠 VP of Technical Events & Cybersecurity Team Lead @ **StackHacks Binghamton**
-- 💗 Teaching Python & Roblox game dev to 30+ students with **Girls Who Code**
-- 🌍 Speaks English, Romanian, Mandarin & a little Spanish
+- ♡ Building the website for **Stutter Forward**, an evidence-based online community for people who stutter (Firebase + Cloudflare)
+- ✿ Co-founder & front-end dev at **Coveted**, a React Native marketplace with Stripe payments
+- ✧ Designing **Cryptid Hunt**, an asymmetric social-deduction game in Roblox Studio
+- ❀ VP of Technical Events & Cybersecurity Team Lead @ **StackHacks Binghamton**
+- ♡ Teaching Python & Roblox game dev to 30+ students with **Girls Who Code**
+- ✿ Speaks English, Romanian, Mandarin & a little Spanish
 
 ---
 
-## 💻 Tech Stack
+## ✧ Tech Stack
 
 <div align="center">
 
@@ -61,20 +61,20 @@
 
 ---
 
-## 🧸 Featured Projects
+## ❀ Featured Projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-#### 📰 [Relief Wire](https://github.com/stecalin/news-relief-app)
+#### ✿ [Relief Wire](https://github.com/stecalin/news-relief-app)
 News app that links breaking stories to relief organizations, with accounts, comments, and a custom native UI.
 <br/>`React Native` `Expo` `Firebase`
 
 </td>
 <td width="50%" valign="top">
 
-#### 📡 [Resume Radar](https://github.com/stecalin/resume-radar)
+#### ✧ [Resume Radar](https://github.com/stecalin/resume-radar)
 Chrome extension using the Claude API to score job fit 0–100, tailor resume bullets, and track applications.
 <br/>`JavaScript` `Claude API` `Manifest V3`
 
@@ -83,14 +83,14 @@ Chrome extension using the Claude API to score job fit 0–100, tailor resume bu
 <tr>
 <td width="50%" valign="top">
 
-#### 💅 [Dupe Finder](https://github.com/stecalin/dupe-finder)
-Full-stack app that finds affordable dupes for luxury products with live Amazon data. **[✨ try it live](https://dupe-finder-sandy.vercel.app)**
+#### ♡ [Dupe Finder](https://github.com/stecalin/dupe-finder)
+Full-stack app that finds affordable dupes for luxury products with live Amazon data. **[✧ try it live](https://dupe-finder-sandy.vercel.app)**
 <br/>`React` `Node` `Express` `MongoDB`
 
 </td>
 <td width="50%" valign="top">
 
-#### 👻 Cryptid Hunt
+#### ❀ Cryptid Hunt
 Asymmetric social-deduction game with shapeshifting disguises, scanner cooldowns, and ambush vs. chase attacks.
 <br/>`Roblox Studio` `Lua`
 
@@ -100,7 +100,7 @@ Asymmetric social-deduction game with shapeshifting disguises, scanner cooldowns
 
 ---
 
-## 📊 GitHub Analytics
+## ☆ GitHub Analytics
 
 <div align="center">
 
@@ -110,7 +110,7 @@ Asymmetric social-deduction game with shapeshifting disguises, scanner cooldowns
 
 ---
 
-## 📈 Contribution Graph
+## ⋆ Contribution Graph
 
 <div align="center">
 
