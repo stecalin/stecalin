@@ -2,7 +2,7 @@
 
 <img src="cat.svg" width="170" alt="pixel cat" />
 
-# Hi ♡ I'm Stephania Calin
+# hi ♡ i'm stephania calin
 
 **Computer Science @ Binghamton University '28 • Software Engineer • Game Dev**
 
@@ -12,11 +12,11 @@
 
 ---
 
-## ✿ Connect with Me
+## ✿ connect with me
 
 <div align="center">
 
-<a href="https://linkedin.com/in/stephania-calin"><img src="https://img.shields.io/badge/LinkedIn-F48FB1?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="[https://linkedin.com/in/stephania-calin](https://www.linkedin.com/in/stephania-calin-72b054381/)"><img src="https://img.shields.io/badge/LinkedIn-F48FB1?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:scalin@binghamton.edu"><img src="https://img.shields.io/badge/Email-CE93D8?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://dupe-finder-sandy.vercel.app"><img src="https://img.shields.io/badge/Live_Project-F8BBD0?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 <img src="https://komarev.com/ghpvc/?username=stecalin&color=f48fb1&style=for-the-badge&label=PROFILE+VIEWS" />
@@ -25,7 +25,7 @@
 
 ---
 
-## ♡ About Me
+## ♡ about me
 
 - ♡ Building the website for **Stutter Forward**, an evidence-based online community for people who stutter (Firebase + Cloudflare)
 - ✿ Co-founder & front-end dev at **Coveted**, a React Native marketplace with Stripe payments
@@ -36,7 +36,7 @@
 
 ---
 
-## ✧ Tech Stack
+## ✧ tech stack
 
 <div align="center">
 
@@ -61,7 +61,7 @@
 
 ---
 
-## ❀ Featured Projects
+## ❀ featured projects
 
 <table>
 <tr>
@@ -100,7 +100,7 @@ Asymmetric social-deduction game with shapeshifting disguises, scanner cooldowns
 
 ---
 
-## ☆ GitHub Analytics
+## ☆ gitHub analytics
 
 <div align="center">
 
@@ -110,7 +110,7 @@ Asymmetric social-deduction game with shapeshifting disguises, scanner cooldowns
 
 ---
 
-## ⋆ Contribution Graph
+## ⋆ contribution graph
 
 <div align="center">
 
